@@ -1,0 +1,96 @@
+body{
+  background-image: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  box-sizing: border-box;
+}
+
+.container{
+  position: relative;
+  width: 1200px;
+  height: 850px;
+  margin: auto;
+  margin-top: 25px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+
+}
+
+.logo{
+  width: 250px;
+  padding-left: 480px;
+  margin-top: 105px;
+
+}
+
+.titolo{
+  color: limegreen;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+
+.riga-nav{
+  background-color: limegreen;
+  width: 1000px;
+  height: 50px;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+.buttons{
+  margin-left: 350px;
+  margin-top: 15px;
+}
+
+.Monopattino{
+  padding-left: 100px;
+  margin-top: 30px;
+
+}
+
+.font{
+  font-size: 25px;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.indirizzo{
+  color: white;
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+.statocarica{
+  color: white;
+
+
+}
+
+p{
+  margin: 0;
+}
+
+.riga-arancione{
+  width: 300px;
+  height: 25px;
+  background-color: SandyBrown;
+  border-radius: 5px;
+}
+
+.riga-verde{
+  width: 600px;
+  height: 25px;
+  background-color: limegreen;
+  border-radius: 5px;
+
+}
+
+.riga-rossa{
+  width: 150px;
+  height: 25px;
+  background-color: brown;
+  border-radius: 5px;
+}
